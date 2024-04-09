@@ -1,0 +1,15 @@
+Golden-labels in: D:/TopicModel/code/IETM/dataset/Tweet/Tweet_label.txt
+
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_1.theta
+	Accuracy: 79.20711974110033
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_2.theta
+	Accuracy: 81.22977346278317
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_3.theta
+	Accuracy: 82.07928802588997
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_4.theta
+	Accuracy: 83.98058252427184
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_5.theta
+	Accuracy: 80.38025889967638
+
+---
+Mean accuracy: 81.37540453074433, standard deviation: 1.612165408181749

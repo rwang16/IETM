@@ -1,0 +1,10 @@
+-model	IETM_50_1.0_0.01_2
+-ntopics	50
+-alpha	1.0
+-beta	0.01
+-niters	1000
+-twords	20
+-name	IETM_50_1.0_0.01_2
+-initiation time	63.0
+-one iteration time	63.657
+-total time	63720.0

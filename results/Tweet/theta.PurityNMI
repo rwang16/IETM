@@ -1,0 +1,21 @@
+Golden-labels in: D:/TopicModel/code/IETM/dataset/Tweet/Tweet_label.txt
+
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_1.theta
+	Purity: 0.7576860841423948
+	NMI: 0.8378671326479437
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_2.theta
+	Purity: 0.7730582524271845
+	NMI: 0.8470706165058016
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_3.theta
+	Purity: 0.7928802588996764
+	NMI: 0.8456431514023973
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_4.theta
+	Purity: 0.7880258899676376
+	NMI: 0.8507987025926333
+Results for: D:\TopicModel\code\IETM\results\Tweet\IETM_50_1.0_0.01_5.theta
+	Purity: 0.7609223300970874
+	NMI: 0.8471894513263768
+
+---
+Mean purity: 0.7745145631067961, standard deviation: 0.014070693506278776
+Mean NMI: 0.8457138108950305, standard deviation: 0.004276678898435076

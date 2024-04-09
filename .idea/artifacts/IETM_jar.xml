@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IETM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IETM_jar</output-path>
+    <root id="archive" name="IETM.jar">
+      <element id="module-output" name="IETM" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mallet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/args4j-2.0.6.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/out/artifacts" />
+    </root>
+  </artifact>
+</component>
